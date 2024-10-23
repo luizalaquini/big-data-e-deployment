@@ -4,3 +4,6 @@ pandas
 statsmodels
 matplotlib
 requests
+pyspark==3.5.1
+findspark
+seaborn
