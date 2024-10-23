@@ -2,3 +2,6 @@
 
 mlruns
 mlartifacts
+
+data/2016.csv
+data/2017.csv
